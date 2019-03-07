@@ -7,16 +7,16 @@ We could see the varying duty cycles, with a max at 5V.
 you know we did it, i learned something useful
 
 3.   How long does ESP8266_to_Mega() take in part D step 5? 
-look at screenshot
+look at screenshot https://imgur.com/a/cqqchky
 
 4.   How long does  ReadSensors() take in part D step 5?
-look at screenshot(bottom waveform)
+look at screenshot(bottom waveform) https://imgur.com/a/cqqchky
 
 5.   How long does ESP8266_to_Mega() take in part D step 6?
-you know
+you know we did it
 
 6.   How long does  ReadSensors() take in part D step 6?
-you know
+you know we did it
 
 7.   Compare serial monitor debugging with logic analyzer debugging. What are the pros and cons of each?
 logical analyzer debugging is a lot more detailed and gives you much more information, but serial
