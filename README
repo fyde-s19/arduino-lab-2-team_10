@@ -1,0 +1,26 @@
+Questions - Answer these in your README. 
+
+1. What is happening with the dimmer code pattern in part D step 3?
+We could see the varying duty cycles, with a max at 5V.
+
+2.   What does the decoded message say in part D step 4?
+you know we did it, i learned something useful
+
+3.   How long does ESP8266_to_Mega() take in part D step 5? 
+look at screenshot
+
+4.   How long does  ReadSensors() take in part D step 5?
+look at screenshot(bottom waveform)
+
+5.   How long does ESP8266_to_Mega() take in part D step 6?
+you know
+
+6.   How long does  ReadSensors() take in part D step 6?
+you know
+
+7.   Compare serial monitor debugging with logic analyzer debugging. What are the pros and cons of each?
+logical analyzer debugging is a lot more detailed and gives you much more information, but serial
+debugging is more convient. 
+
+8.   Why do we need to connect the logic analyzer to the same ground as the Arduino?
+Because it acts as a reference ground
